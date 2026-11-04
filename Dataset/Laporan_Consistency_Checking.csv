@@ -1,0 +1,9 @@
+Pemeriksaan,Jumlah,Persentase
+Spasi Tambahan,14,0.01
+Tanggal Invalid,0,0.0
+Waktu Invalid,0,0.0
+Confidence Tidak Sesuai,199999,91.65
+Koordinat Tidak Valid,0,0.0
+Koordinat di Luar Bounding Box Indonesia,62,0.03
+Kecamatan dengan Lebih dari Satu Kabupaten,122,0.06
+Kecamatan dengan Lebih dari Satu Provinsi,85,0.04
